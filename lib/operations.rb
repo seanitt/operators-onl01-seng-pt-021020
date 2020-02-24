@@ -15,8 +15,7 @@ end
     true
   elsif speed < 40
   true
-end
-   end
+  end
 end
 	
 

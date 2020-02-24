@@ -1,7 +1,7 @@
 # Operators
 
-## Objectives
 
+## Objectives
 1. Use the ternary operator (`?:`).
 2. Understand when to use the ternary operator
 3. Understand the use of statement modifiers
